@@ -3,7 +3,7 @@
 ### An Arduino-Based Robotics & Electronics Project
 
 <p align="center">
-  <img src="RR_LED_Pattern_Control_using_IR_Sensors" alt="Rajan Robotics - LED Pattern Control" width="100%">
+  <img src="RR_LED_Pattern_Control_using_IR_Sensors.png" alt="Rajan Robotics - LED Pattern Control" width="100%">
 </p>
 
 <p align="center">
