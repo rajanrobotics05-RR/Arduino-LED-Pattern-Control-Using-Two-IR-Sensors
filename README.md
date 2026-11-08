@@ -251,7 +251,7 @@ By completing this project, students can understand:
 ## 🏫 Project By
 
 <p align="center">
-  <img src="RR_Logo_2026.png" alt="Rajan Robotics Logo" width="250">
+  <img src="RR_Logo_2026_png.png" alt="Rajan Robotics Logo" width="250">
 </p>
 
 <h3 align="center">RAJAN ROBOTICS</h3>
